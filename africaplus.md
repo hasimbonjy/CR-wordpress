@@ -20,3 +20,9 @@ les articles (posts) contituent le contenu
 
 #AVIS
 fallait faire un blog cela aurait-été plus approprié
+
+un exemple :
+http://afriquenewsinfo.net/
+est devenu un blog
+la forme est restée la même 
+https://afriquenewsblog.wordpress.com/
