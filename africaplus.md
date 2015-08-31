@@ -1,4 +1,4 @@
-l'adresse du second site est : https://africaplus.wordpress.com/
+l'adresse du site est : https://africaplus.wordpress.com/
 
 
 
