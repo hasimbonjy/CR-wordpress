@@ -1,4 +1,4 @@
-l'adresse su premier site est :
+l'adresse du site est :
 https://archivescolonialesbrazzaville.wordpress.com/
 
 #GENERALITE
